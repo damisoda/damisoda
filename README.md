@@ -1,11 +1,7 @@
-<!-- Header: Typing SVG -->
-<h1 align="center">
-  <a href="https://github.com/damisoda">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=6C7BFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daeheum+%F0%9F%91%8B;NLP+%C3%97+LLM+%C3%97+Physical+AI;%EC%96%B8%EC%96%B4%EC%99%80+AI%EC%9D%98+%EA%B2%BD%EA%B3%84%EC%97%90%EC%84%9C." alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi, I'm Daeheum 👋</h1>
 
 <p align="center">
+  <i>NLP × LLM × Physical AI</i><br/>
   서강대학교 미국문화 전공 · 인공지능 연계전공<br/>
   언어와 AI의 경계에서, 현실과 맞닿는 지능을 만들고 싶습니다.
 </p>
