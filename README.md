@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm damisoda 👋</h1>
+<h1 align="center">Hi, I'm Daeheum 👋</h1>
 
 <p align="center">
   서강대학교 미국문화 전공 · 인공지능 연계전공<br/>
@@ -11,7 +11,7 @@
 
 서강대학교 재학 중인 주니어 개발자입니다.
 영문학에서 AI로 영역을 넓혀가며, 부트캐프·인턴십·공모전을 통해
-NLP · LLM · AI Agent · 데이터 시뮬레이션을 직접 다뤄보고 있어요.
+NLP · LLM · AI Agent · 데이터 시뮬레이션을 직접 다뤄보고 있습니다.
 
 ---
 
