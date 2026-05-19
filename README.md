@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Daeheum 👋</h1>h1>
+<h1 align="center">Hi, I'm Daeheum 👋</h1>
 
 <p align="center">
 서강대학교 미국문화 전공 · 인공지능 연계전공<br/>
 NLP · LLM · AI Agent를 직접 다루는 주니어 AI 개발자입니다.
-</p>p>
+</p>
 
 ---
 
