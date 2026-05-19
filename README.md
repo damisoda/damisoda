@@ -58,9 +58,11 @@ arXiv 논문 자동 수집 → 로컬 LLM 한국어 요약 → Obsidian/Discord 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damisoda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damisoda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damisoda&theme=tokyonight" width="82%" alt="Profile Details"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damisoda&theme=tokyonight" width="41%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damisoda&theme=tokyonight" width="41%" alt="Most Commit Language"/>
 </p>
 
 ---
