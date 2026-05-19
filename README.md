@@ -55,43 +55,43 @@
 
 ### Projects
 
-**NLP / LLM**
+<img src="https://img.shields.io/badge/NLP%20%2F%20LLM-6C7BFF?style=for-the-badge" alt="NLP / LLM" />
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [text-recovery](https://github.com/damisoda/text-recovery) | 야민정음·오타를 원문으로 복원하는 NLP 솔루션. Classifier + KoBART 듀얼 아키텍처. | `KoBART` `자모 분리` `Fine-tuning` |
-| [LearnCraft-quiz_generator](https://github.com/damisoda/LearnCraft-quiz_generator) | 강의 스크립트 기반 퀴즈 자동 생성·채점·개인화 가이드 RAG 파이프라인. *(멋사 로켓단 인턴십)* | `GPT-4o-mini` `ChromaDB` `BM25` `FastAPI` |
+| [**text-recovery**](https://github.com/damisoda/text-recovery) | 야민정음·오타를 원문으로 복원하는 NLP 솔루션.<br/>Classifier + KoBART 듀얼 아키텍처. | ![KoBART](https://img.shields.io/badge/-KoBART-4B8BBE?style=flat) ![Jamo](https://img.shields.io/badge/-자모분리-555?style=flat) ![FineTuning](https://img.shields.io/badge/-Fine--tuning-EE4C2C?style=flat) |
+| [**LearnCraft-quiz_generator**](https://github.com/damisoda/LearnCraft-quiz_generator) | 강의 스크립트 기반 퀴즈 자동 생성·채점·개인화 RAG 파이프라인.<br/>*멋사 로켓단 인턴십* | ![GPT-4o](https://img.shields.io/badge/-GPT--4o--mini-412991?style=flat&logo=openai&logoColor=white) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat) ![BM25](https://img.shields.io/badge/-BM25-555?style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
 
-**AI Agent / Simulation**
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| [LOVELOP-agent-simulator](https://github.com/damisoda/LOVELOP-commercial-agent-simulator) | 160명의 생성형 AI 에이전트가 망원동 상권에서 의사결정하는 시뮬레이터. *(멋사 AI NLP 3기)* | `LLM Agent` `OSMnx` `asyncio` `Streamlit` |
-
-**FinTech / Data**
+<img src="https://img.shields.io/badge/AI%20Agent%20%2F%20Simulation-22C55E?style=for-the-badge" alt="AI Agent / Simulation" />
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [godscore-demo](https://github.com/Geek-Sogang/godscore-demo) | 긱워커를 위한 블록체인 기반 대안신용평가 플랫폼. XGBoost + SHAP 기반 점수 산출 엔진. *(하나 청년 금융인재 양성 · 결선 진출)* | `FastAPI` `XGBoost` `SHAP` `Supabase` |
+| [**LOVELOP-agent-simulator**](https://github.com/damisoda/LOVELOP-commercial-agent-simulator) | 160명의 생성형 AI 에이전트가 망원동 상권에서 의사결정하는 시뮬레이터.<br/>*멋사 AI NLP 3기* | ![LLM Agent](https://img.shields.io/badge/-LLM%20Agent-6C7BFF?style=flat) ![OSMnx](https://img.shields.io/badge/-OSMnx-3FCF8E?style=flat) ![asyncio](https://img.shields.io/badge/-asyncio-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 
-**Personal**
+<img src="https://img.shields.io/badge/FinTech%20%2F%20Data-F59E0B?style=for-the-badge" alt="FinTech / Data" />
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [Paper-Digest](https://github.com/damisoda/Paper-Digest) | arXiv 논문 자동 수집 → 로컬 LLM 한국어 요약 → Obsidian/Discord 자동 아카이빙. | `Ollama` `APScheduler` `SQLite` |
+| [**godscore-demo**](https://github.com/Geek-Sogang/godscore-demo) | 긱워커를 위한 블록체인 기반 대안신용평가 플랫폼.<br/>XGBoost + SHAP 기반 점수 산출 엔진.<br/>*하나 청년 금융인재 양성 · 결선 진출* | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB6E2D?style=flat) ![SHAP](https://img.shields.io/badge/-SHAP-555?style=flat) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) |
+
+<img src="https://img.shields.io/badge/Personal-A855F7?style=for-the-badge" alt="Personal" />
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| [**Paper-Digest**](https://github.com/damisoda/Paper-Digest) | arXiv 논문 자동 수집 → 로컬 LLM 한국어 요약 → Obsidian/Discord 자동 아카이빙. | ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white) ![APScheduler](https://img.shields.io/badge/-APScheduler-3776AB?style=flat&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 
 ---
 
 ### Activity
 
 | 구분 | 내용 | 기간 | 상태 |
-|:---|:---|:---:|:---:|
-| 부트캠프 | 멋사 AI NLP 3기 · *Lovelop* | 2025.12 – 2026.02 | 완료 |
-| 인턴십 | 멋사 로켓단 · *LearnCraft* | 2026.03 – 2026.04 | 완료 |
-| 공모전 | 하나 청년 금융인재 양성 프로젝트 · **결선 진출** | 2026 | 진행 중 |
-| 대회 | AI 루키 대회 · 실종자 AI 알림 시스템 | 2026.04 | 진행 중 |
-| 동아리 | 서광회 60기 | 2022 – 2026 | 완료 |
-| 학회 | 서강대 인사이트 (Insight-Sogang-Univ) | 2026 – | 진행 중 |
+|:---:|:---|:---:|:---:|
+| 🎓 부트캠프 | 멋사 AI NLP 3기 · *Lovelop* | `2025.12 – 2026.02` | ![Done](https://img.shields.io/badge/-완료-22C55E?style=flat) |
+| 💼 인턴십 | 멋사 로켓단 · *LearnCraft* | `2026.03 – 2026.04` | ![Done](https://img.shields.io/badge/-완료-22C55E?style=flat) |
+| 🏆 공모전 | 하나 청년 금융인재 양성 프로젝트 · **결선 진출** | `2026` | ![Ongoing](https://img.shields.io/badge/-진행중-F59E0B?style=flat) |
+| 🚨 대회 | AI 루키 대회 · 실종자 AI 알림 시스템 | `2026.04` | ![Ongoing](https://img.shields.io/badge/-진행중-F59E0B?style=flat) |
+| 🪶 동아리 | 서광회 60기 | `2022 – 2026` | ![Done](https://img.shields.io/badge/-완료-22C55E?style=flat) |
+| 🔬 학회 | 서강대 인사이트 (Insight-Sogang-Univ) | `2026 –` | ![Ongoing](https://img.shields.io/badge/-진행중-F59E0B?style=flat) |
 
 ---
 
