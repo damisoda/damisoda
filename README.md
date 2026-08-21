@@ -78,7 +78,7 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [**돌아오길 (Come-back-home)**](https://github.com/Donghaeng-AI-ROOKIE/Come-back-home) | 실종자 동선을 H3 셀 확률지도로 예측하고 확률 상위 최소 구역 시민에게만 제보 알림을 보내는 서비스.<br/>*2026 인공지능 루키 대회 본선 진출 (진행 중) · 서강대 팀 동행 · 개발 3인 중 최다 기여(전체 커밋의 약 55%) — A100 서버에서 EXAONE LoRA 파인튜닝(10여 회 실험)과 vLLM multi-LoRA(어댑터 6종) 서빙 담당* | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Expo](https://img.shields.io/badge/-React%20Native%20(Expo)-000020?style=flat&logo=expo&logoColor=white) ![EXAONE](https://img.shields.io/badge/-EXAONE%20(LoRA)-6C7BFF?style=flat) ![vLLM](https://img.shields.io/badge/-vLLM-6C7BFF?style=flat) ![OSMnx](https://img.shields.io/badge/-OSMnx-3FCF8E?style=flat) ![H3](https://img.shields.io/badge/-H3-F59E0B?style=flat) |
+| [**돌아오길 (Come-back-home)**](https://github.com/Donghaeng-AI-ROOKIE/Come-back-home) | 실종자 동선을 H3 셀 확률지도로 예측하고 확률 상위 최소 구역 시민에게만 제보 알림을 보내는 서비스.<br/>*2026 인공지능 루키 대회 본선 진출 (진행 중) · 서강대 팀 동행 · 개발 3인 중 최다 기여(전체 커밋의 약 55%) — A100 서버에서 EXAONE LoRA 파인튜닝(10여 회 실험)과 vLLM multi-LoRA(어댑터 3종) 서빙 담당* | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Expo](https://img.shields.io/badge/-React%20Native%20(Expo)-000020?style=flat&logo=expo&logoColor=white) ![EXAONE](https://img.shields.io/badge/-EXAONE%20(LoRA)-6C7BFF?style=flat) ![vLLM](https://img.shields.io/badge/-vLLM-6C7BFF?style=flat) ![OSMnx](https://img.shields.io/badge/-OSMnx-3FCF8E?style=flat) ![H3](https://img.shields.io/badge/-H3-F59E0B?style=flat) |
 
 <img src="https://img.shields.io/badge/FinTech%20%2F%20Data-F59E0B?style=for-the-badge" alt="FinTech / Data" />
 
@@ -151,6 +151,6 @@
 
 ## My Git Animals
 
-<a href="https://github.com/damisoda/gitanimals">
+<a href="https://github.com/git-goods/gitanimals">
 <img src="https://render.gitanimals.org/farms/damisoda" alt="Git Animals" />
 </a>
