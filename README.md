@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://damisoda.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C7BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=damisoda&label=Profile%20views&color=6C7BFF&style=flat" alt="Profile views" />
   <a href="mailto:jodaeheum800@gmail.com"><img src="https://img.shields.io/badge/Gmail-6C7BFF?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/damisoda"><img src="https://img.shields.io/badge/GitHub-6C7BFF?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
