@@ -13,6 +13,7 @@
 
 <p align="center">
   <a href="https://damisoda.github.io/"><img src="https://img.shields.io/badge/Portfolio-구경하러_가기-7653CF?style=for-the-badge&logo=githubpages&logoColor=white" alt="포트폴리오 구경하러 가기"></a>
+  <a href="https://damisoda.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-이력서_보기-222222?style=for-the-badge&logo=readthedocs&logoColor=white" alt="이력서 보기"></a>
   <a href="mailto:jodaeheum800@gmail.com"><img src="https://img.shields.io/badge/Email-이야기_나누기-5268B5?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일로 이야기 나누기"></a>
 </p>
 
