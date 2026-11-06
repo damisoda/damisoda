@@ -92,7 +92,7 @@ AI 코딩 도구와 함께 요구사항을 구체화하고, 구현을 개선하�
 <p><a href="https://github.com/damisoda/Dev-Hive"><img src="assets/dev-hive-front.png" width="100%" alt="Dev-Hive Next.js 프런트 홈 피드. 저장소 예제 데이터로 로컬 실행한 데모 화면."></a></p>
 <p><sub>기존 Next.js 프런트 실행 화면 · 저장소 예제 데이터 사용</sub></p>
 <p>흩어진 AI 콘텐츠를 수집·태깅하고 지식그래프로 묶어, 관심사와 수준에 맞는 학습 콘텐츠를 추천하는 개발자 학습 커뮤니티입니다.</p>
-<p><strong>결과</strong> — 고아 노드 비율 94% → 3.3% (그리디 v1 → 2패스 재설계) · 그래프 coverage 0.91 · 6종 소스 1,283건 수집·가공</p>
+<p><strong>결과</strong> — 대주제 7개에 몰린 콘텐츠 66%를 k-means 재분할해 coverage 0.34 → 0.999 · 그래프 목적함수 J 0.525 → 0.689 (<a href="https://github.com/damisoda/Dev-Hive/pull/115">PR #115</a>) · JWT 인증으로 IDOR 취약점 봉합 (<a href="https://github.com/damisoda/Dev-Hive/pull/83">PR #83</a>)</p>
 <p><strong>맡은 일</strong> — 팀 리드로 그래프(Layer 2)와 서비스 영역을 맡았습니다. AI와 함께 FastAPI API·온보딩·서비스 통합을 진행하고, 로컬 모델 활용과 그래프 고도화 방향을 검토했습니다.</p>
 <p>🐝 <strong>서강대학교 INSIGHT 학회 프로젝트</strong></p>
 <p>
