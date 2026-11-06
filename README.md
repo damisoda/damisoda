@@ -30,53 +30,59 @@ AI 코딩 도구와 함께 요구사항을 구체화하고, 구현을 개선하�
 
 ## 대표 프로젝트
 
-<table width="100%"><tbody><tr><td>
-
 <p><a href="https://github.com/damisoda/design-qa-agent"><img src="assets/dqa.svg" width="100%" alt="dqa · 디자인 검수·수정 에이전트"></a></p>
 <h3>dqa · AI가 만든 화면, 다시 확인하기</h3>
 <p>Figma 시안과 구현 화면의 차이를 측정하고, 모델이 코드를 고치면 여러 화면 크기에서 다시 검사하는 도구입니다.</p>
 <p><strong>함께 진행한 일</strong> — Dify를 반드시 거치는 실행 흐름, Figma 자동 연결, 실제 검사 로그와 수정 전후 화면 등 요구사항을 구체화하고 AI와 함께 수정·재검증했습니다.</p>
-<p><code>Dify</code> <code>Chromium</code> <code>Ollama</code> <code>JavaScript</code></p>
+<p>
+  <img src="https://img.shields.io/badge/Dify-7653CF?style=for-the-badge" alt="Dify">
+  <img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge" alt="Chromium">
+  <img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+</p>
 <p><a href="https://github.com/damisoda/design-qa-agent">저장소</a> · <a href="https://damisoda.github.io/projects/design-qa-agent/">프로젝트 이야기</a> · <a href="https://github.com/damisoda/design-qa-agent/blob/main/docs/performance-20261021.md">반복 실행 기록</a></p>
 <details>
 <summary>실행 결과 더 보기</summary><p>동일한 글자 넘침 사례를 전후 각 3회 실행했을 때, 전체 실행 시간 중앙값은 <strong>143.8초 → 98.8초</strong>였습니다. 화면 크기 5개를 유지한 한 통제 사례의 결과입니다.</p>
 </details>
-</td></tr></tbody></table>
 
 <br>
-
-<table width="100%"><tbody><tr><td>
 
 <p><a href="https://github.com/Donghaeng-AI-ROOKIE/Come-back-home"><img src="assets/cbh.svg" width="100%" alt="돌아오길 · 인공지능 루키대회 1차 결선 진출"></a></p>
 <h3>돌아오길 · 누군가의 귀가를 돕는 AI</h3>
 <p>보호자가 들려준 생활사와 수색 통계·도로망으로 위치 확률지도를 만들고, 필요한 구역의 시민에게 제보를 요청하는 수색 지원 서비스입니다.</p>
 <p><strong>함께 진행한 일</strong> — 생활사 해석을 위한 모델 비교, SAR·K-EXAONE·RAG의 연결 방식, 개인화·마음모델·보행 코드의 개선 방향을 논의하고 AI와 함께 실험 설계·수정·검증을 진행했습니다.</p>
 <p>🏅 <strong>2026 인공지능 루키대회 1차 결선 진출</strong> · 팀 동행</p>
-<p><code>FastAPI</code> <code>EXAONE / LoRA</code> <code>vLLM</code> <code>H3</code> <code>Expo</code></p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/EXAONE-315D43?style=for-the-badge" alt="EXAONE">
+  <img src="https://img.shields.io/badge/LoRA-7653CF?style=for-the-badge" alt="LoRA">
+  <img src="https://img.shields.io/badge/vLLM-5268B5?style=for-the-badge" alt="vLLM">
+  <img src="https://img.shields.io/badge/H3-455A64?style=for-the-badge" alt="H3">
+  <img src="https://img.shields.io/badge/Expo-4630EB?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo">
+</p>
 <p><a href="https://github.com/Donghaeng-AI-ROOKIE/Come-back-home">저장소</a> · <a href="https://damisoda.github.io/projects/come-back-home/">프로젝트 이야기</a></p>
 <details>
 <summary>대회 결과와 검증 범위</summary><p>1차 결선까지 진출했으며 2차 결선에는 진출하지 못했습니다. 대회 활동은 종료되었습니다.
 실제 실종 사건에서의 발견 성능을 검증한 서비스가 아니라, 시뮬레이션과 모델 비교 실험을 진행한 프로젝트입니다.</p>
 </details>
-</td></tr></tbody></table>
 
 <br>
-
-<table width="100%"><tbody><tr><td>
 
 <p><a href="https://github.com/Geek-Sogang/Career-Piggybank"><img src="assets/piggybank.svg" width="100%" alt="커리어 저금통 · 하나 청년 금융인재 양성 프로젝트 우수상"></a></p>
 <h3>커리어 저금통 · 불규칙한 수입에도 계획이 생기도록</h3>
 <p>긱워커의 커리어 기록·예산 배분·은퇴 준비를 연결하는 AI 생활금융 프로젝트입니다.</p>
 <p><strong>함께 진행한 일</strong> — 앱의 탭 구성과 데모 사용자 흐름, 로컬 모델 사용 조건을 정하고, AI와 함께 디자인을 백엔드에 연결하고 봉투 UI·미션·레벨업 경험을 개선했습니다.</p>
 <p>🏆 <strong>하나 청년 금융인재 양성 프로젝트 우수상</strong> · 팀 짱사이트</p>
-<p><code>FastAPI</code> <code>Expo</code> <code>EXAONE</code> <code>SQLite</code></p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Expo-4630EB?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/EXAONE-315D43?style=for-the-badge" alt="EXAONE">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
+</p>
 <p><a href="https://github.com/Geek-Sogang/Career-Piggybank">저장소</a> · <a href="https://damisoda.github.io/projects/career-piggybank/">프로젝트 이야기</a> · <a href="https://damisoda.github.io/demos/career-piggybank/">데모 체험</a></p>
 
-</td></tr></tbody></table>
 
 <br>
-
-<table width="100%"><tbody><tr><td>
 
 <p><a href="https://github.com/damisoda/Dev-Hive"><img src="assets/dev-hive.svg" width="100%" alt="Dev-Hive · INSIGHT 프로젝트 · 팀 리드"></a></p>
 <h3>Dev-Hive · 다음에 무엇을 배울지 막막할 때</h3>
@@ -85,12 +91,18 @@ AI 코딩 도구와 함께 요구사항을 구체화하고, 구현을 개선하�
 <p>흩어진 AI 콘텐츠를 수집·태깅하고 지식그래프로 묶어, 관심사와 수준에 맞는 학습 콘텐츠를 추천하는 개발자 학습 커뮤니티입니다.</p>
 <p><strong>맡은 일</strong> — 팀 리드로 그래프(Layer 2)와 서비스 영역을 맡았습니다. AI와 함께 FastAPI API·온보딩·서비스 통합을 진행하고, 로컬 모델 활용과 그래프 고도화 방향을 검토했습니다.</p>
 <p>🐝 <strong>서강대학교 INSIGHT 학회 프로젝트</strong></p>
-<p><code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL / pgvector</code> <code>GraphRAG</code> <code>Docker</code></p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Next.js-222222?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge" alt="pgvector">
+  <img src="https://img.shields.io/badge/GraphRAG-7653CF?style=for-the-badge" alt="GraphRAG">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+</p>
 <p><a href="https://github.com/damisoda/Dev-Hive">저장소</a> · <a href="https://damisoda.github.io/projects/dev-hive/">프로젝트 이야기</a> · <a href="https://insight.oopy.io/8a312ab9-7d49-49c3-95e2-bf2ad786af2c">학회 소개</a></p>
 <details>
 <summary>구현 상태 더 보기</summary><p>GraphSAGE는 학습 파이프라인까지만 구축했으며 추천에는 반영하지 않았습니다.</p>
 </details>
-</td></tr></tbody></table>
 
 <br>
 
